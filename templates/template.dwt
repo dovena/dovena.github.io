@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- TemplateBeginEditable name="doctitle" -->
+  <title>Doreen Pairer - Resume</title>
+  <!-- TemplateEndEditable -->
+  <!-- Bootstrap -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+  <link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <script src="../bootstrap/js/bootstrap.min.js"></script>
+  <!-- Main style -->
+  <link rel="stylesheet" href="../css/style.css">
+  <!-- TemplateBeginEditable name="head" -->
+  <!-- TemplateEndEditable -->
+</head>
+
+<body>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <a class="navbar-brand" href="#">dP</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="../index.html">Home <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="./index.html#anc-1">Resume</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="./index.html#anc-2">Portfolio</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+  <!-- TemplateBeginEditable name="EditRegion3" -->
+  <section>
+    <div class="jumbotron text-center mt-2">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <h1>Lorem ipsum dolor sit.</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi, deleniti, ea nisi suscipit atque
+              tempore aspernatur harum unde veritatis neque rem dolores assumenda. Recusandae facilis dolores cum iste
+              assumenda accusamus.</p>
+            <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more »</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section>
+    <div class="container">
+      <div class="row">
+        <div class="col-12 text-center">
+          <h1>Lorem ipsum dolor sit amet</h1>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, magni, doloribus, possimus eum
+            sapiente deleniti doloremque fugit ut expedita molestiae iusto debitis eveniet modi obcaecati ipsam quos
+            quis labore dicta.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section>
+    <div class="container mt-2">
+      <div class="row">
+        <div class="col-md-4 col-12">
+          <ul class="list-unstyled">
+            <li class="media"> <img class="mr-3" src="../images/35X35.gif" alt="Generic placeholder image">
+              <div class="media-body">
+                <h5 class="mt-0 mb-1">List-based media object</h5>
+                Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin.
+              </div>
+            </li>
+          </ul>
+        </div>
+        <div class="col-md-4 col-12">
+          <ul class="list-unstyled">
+            <li class="media"> <img class="mr-3" src="../images/35X35.gif" alt="Generic placeholder image">
+              <div class="media-body">
+                <h5 class="mt-0 mb-1">List-based media object</h5>
+                Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin.
+              </div>
+            </li>
+          </ul>
+        </div>
+        <div class="col-md-4 col-12">
+          <ul class="list-unstyled">
+            <li class="media"> <img class="mr-3" src="../images/35X35.gif" alt="Generic placeholder image">
+              <div class="media-body">
+                <h5 class="mt-0 mb-1">List-based media object</h5>
+                Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin.
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section>
+    <div class="container">
+      <div class="row">
+        <div class="col-12 text-center">
+          <h2>Latest Work</h2>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia, et, placeat !</p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-6 col-12 text-center"> <img class="img-fluid" src="../images/400x400.gif" alt="">
+          <h4>Lorem ipsum dolor sit amet, consectetur elit</h4>
+          <h6>Lorem ipsum dolor sit amet, consectetur elit</h6>
+        </div>
+        <div class="col-md-6 col-12 text-center mt-md-0 mt-2"> <img class="img-fluid" src="../images/400x400.gif"
+            alt="">
+          <h4>Lorem ipsum dolor sit amet, consectetur elit</h4>
+          <h6>Lorem ipsum dolor sit amet, consectetur elit</h6>
+        </div>
+      </div>
+      <div class="row mt-2">
+        <div class="col-md-3 col-6"><img class="img-fluid float-right" src="../images/200x200.gif" alt=""></div>
+        <div class="col-md-3 col-6"><img class="img-fluid float-left" src="../images/200x200.gif" alt=""></div>
+        <div class="col-md-3 col-6 mt-md-0 mt-1"><img class="img-fluid float-right" src="../images/200x200.gif" alt="">
+        </div>
+        <div class="col-md-3 col-6 mt-md-0 mt-1"><img class="img-fluid float-left" src="../images/200x200.gif" alt="">
+        </div>
+      </div>
+      <hr>
+      <div class="row">
+        <div class="col-md-3 col-6"><img class="img-fluid float-right" src="../images/200x200.gif" alt=""></div>
+        <div class="col-md-3 col-6"><img class="img-fluid float-left" src="../images/200x200.gif" alt=""></div>
+        <div class="col-md-3 col-6 mt-md-0 mt-1"><img class="img-fluid float-right" src="../images/200x200.gif" alt="">
+        </div>
+        <div class="col-md-3 col-6 mt-md-0 mt-1"><img class="img-fluid float-left" src="../images/200x200.gif" alt="">
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- TemplateEndEditable -->
+  <div class="footer-color">
+    <hr>
+    <div class="row1">
+      <footer class="text-center">
+        <div class="container">
+          <div class="col-12">
+            <p class="footer-text">Copyright 2020 dP. All rights reserved.</p>
+          </div>
+        </div>
+      </footer>
+    </div>
+    <hr>
+  </div>
+</body>
+</html>
